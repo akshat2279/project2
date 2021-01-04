@@ -1,0 +1,123 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times , serif;
+     
+}
+h1{
+    color:#14274e;
+    font-size:50px;
+    line-height: 2;
+}
+h2{
+    color:#389393;
+    font-family: 'Montserrat';
+}
+h3{
+    color:#389393;
+}
+p{
+    color:#14274e;
+    font-weight: normal;
+    font-size: 20px;
+}
+hr{
+    border: dotted #9ddfd3 6px;
+    border-bottom: none;
+    width:9%;
+    margin : 80px auto;
+}
+a{
+    color:#11999E;
+    margin: 20px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color:#EAF6F6;
+}
+.hello{
+    font-size: 40px;
+}
+.p1{
+
+}
+
+.top{
+    background-color: #94b4a4;
+    position: relative;
+    padding-top: 140px;
+
+
+}
+.middle-container{
+     margin: 100px 0;
+    padding-bottom: 20px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px ;
+}
+.bot{
+    padding-bottom: 20px;
+}
+.skill-row{
+           width:50%;
+           margin:100px auto 100px auto;
+           text-align: left;
+           line-height: 2;
+}
+
+.cloud1{
+    position: relative;
+    left:300px;
+   
+   
+   }
+.cloud2{
+    position: absolute;
+    left: 300px;
+    bottom:300px;
+}
+.ima{
+    width :25%;
+    float: left;
+    margin-right: 30px;
+}
+.imaa{
+    width :25%;
+    float: right;
+    margin-right: 30px;
+}
+.contact-me{
+      widows: 40%;
+      margin: 40px auto 60px auto;
+}
+
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #e6ebed;
+    font-size: 18px;
+    background: #67b0e0;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .copyright{
+      color:#EAF6F6;
+      font-size: 0.75rem;
+      margin-top: 2%;
+  }
